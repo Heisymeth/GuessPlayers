@@ -2,7 +2,7 @@
 
 import pandas as pd
 
-df = pd.read_csv('ligue_1_clean.csv')
+df = pd.read_csv('Ligue1_Clean.csv')
 df.head()
 
 #  Application
