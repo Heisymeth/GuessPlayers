@@ -9,7 +9,7 @@ Les fichiers sont répertoriés de la manière suivante:
   - PSG_Clean = export du PSG nettoyé
   - Ligue1 = liste des joueurs de ligue 1 qui a été nettoyée
   - Ligue1_Clean = export de Ligue1 nettoyé
-  - Game = version du jeu actuelle (à lancer sur VScode de préférence, car fichier ipynb)
+  - Game = version du jeu actuelle en python
   - Scraping = BS et Selenium pour récupérer les clubs de chaques joueurs
 
 Travail en cours: Trouver le le nom des clubs pour chaque joueur. Les faire apparaitre du plus ancien au plus récent.
