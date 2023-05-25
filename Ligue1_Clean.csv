@@ -1,0 +1,707 @@
+,Player,Nation,Pos,Age
+0,Brice Samba,France,Gardien,29
+1,Kevin Danso,Autriche,Défenseur,24
+2,Seko Fofana,Côte d'Ivoire,Milieu Défensif,28
+3,Florian Sotoca,France,Milieu Offensif,32
+4,Salis Abdul Samed,Ghana,Milieu Défensif,23
+5,Facundo Medina,Argentine,Défenseur,23
+6,Jonathan Gradit,France,Défenseur,30
+7,Przemys?aw Frankowski,Pologne,Latéral,28
+8,Loïs Openda,Belgique,Attaquant,23
+9,Deiver Machado,Colombie,Latéral,29
+10,Massadio Haïdara,Mali,Latéral,30
+11,David Pereira da Costa,Portugal,Milieu Offensif,22
+12,Adrien Thomasson,France,Milieu Offensif,29
+13,Angelo Fulgini,France,Milieu Offensif,26
+14,Jean Onana,Cameroun,Milieu Défensif,23
+15,Wesley Saïd,France,Milieu Offensif,28
+16,Jimmy Cabot,France,Latéral,29
+17,Alexis Claude-Maurice,France,Milieu Offensif,24
+18,?ukasz Por?ba,Pologne,Milieu Défensif,23
+19,Julien Le Cardinal,France,Défenseur,25
+20,Rémy Labeau Lascary,,Milieu Offensif,20
+21,Ismaëlben Boura,France,,22
+22,Adam Buksa,Pologne,Milieu Offensif,26
+23,Ignatius Ganago,Cameroun,Attaquant,24
+24,Patrick Berg,Norvège,Milieu Offensif,25
+25,Gaël Kakuta,République démocratique du Congo,Attaquant,31
+26,Steven Fortes,Cap-Vert,Défenseur,31
+27,Christopher Wooh,Cameroun,Milieu Défensif,21
+28,Ibrahima Baldé,France,Attaquant,20
+29,Yacouba Barry,France,Milieu Défensif,20
+30,Nolan Bonte,France,Attaquant,19
+31,Pierre Ganiou,France,Défenseur,18
+32,Yaya Kader Fofana,Mali,Milieu Défensif,18
+33,Jean-Louis Leca,France,Gardien,37
+34,Adrien Louveau,France,Milieu Défensif,23
+35,Yannick Pandor,Comores,Gardien,22
+36,Valentin Rongier,France,Milieu Défensif,28
+37,Pau López,Espagne,Gardien,28
+38,Chancel Mbemba,République démocratique du Congo,Défenseur,28
+39,Alexis Sánchez,Chili,Milieu Offensif,34
+40,Jonathan Clauss,France,Défenseur,30
+41,Jordan Veretout,France,Milieu Défensif,30
+42,Leonardo Balerdi,Argentine,Défenseur,24
+43,Cengiz Ünder,Turquie,Milieu Défensif,25
+44,Nuno Tavares,Portugal,Latéral,23
+45,Sead Kolainac,Bosnie-Herzégovine,Défenseur,29
+46,Samuel Gigot,France,Défenseur,29
+47,Mattéo Guendouzi,France,Milieu Défensif,24
+48,Ruslan Malinovskyi,Ukraine,Milieu Offensif,30
+49,Issa Kaboré,,Défenseur,22
+50,Dimitri Payet,France,Milieu Offensif,36
+51,Amine Harit,Maroc,Milieu Offensif,25
+52,Gerson,Brésil,Milieu Défensif,25
+53,Rubén Blanco,Espagne,Gardien,27
+54,Pape Gueye,Sénégal,Milieu Défensif,24
+55,Eric Bailly,Côte d'Ivoire,Défenseur,29
+56,Vitinha,Portugal,Attaquant,23
+57,Luis Javier Suárez,Colombie,Attaquant,25
+58,Arkadiusz Milik,Pologne,Attaquant,29
+59,Bamba Dieng,Sénégal,Milieu Offensif,23
+60,Azzedine Ounahi,Maroc,Milieu Offensif,23
+61,Souleymane Touré,France,Défenseur,20
+62,Cédric Bakambu,République démocratique du Congo,Milieu Défensif,32
+63,Duje ?aleta-Car,Croatie,Défenseur,26
+64,Salim Ben Seghir,France,Milieu Défensif,20
+65,Bartu? Elmaz,Turquie,Milieu Défensif,20
+66,Pol Lirola,Espagne,Latéral,25
+67,François Mughe,Cameroun,Attaquant,18
+68,Simon Ngapandouetnbu,Cameroun,Gardien,20
+69,Yakine Said Mmadi,Comores,Défenseur,19
+70,Alexander Nübel,Allemagne,Gardien,26
+71,Axel Disasi,France,Défenseur,25
+72,Youssouf Fofana,France,Milieu Défensif,24
+73,Caio Henrique Oliveira Silva,Brésil,Défenseur,25
+74,Aleksandr Golovin,"Russie, Fédération de",Milieu Offensif,26
+75,Wissam Ben Yedder,France,Attaquant,32
+76,Mohamed Camara,Mali,Milieu Défensif,23
+77,Guillermo Maripán,Chili,Défenseur,29
+78,Krépin Diatta,Sénégal,Milieu Offensif,24
+79,Vanderson,Brésil,Latéral,21
+80,Breel Embolo,Suisse,Attaquant,26
+81,Ruben Aguilar,France,Défenseur,30
+82,Eliot Matazo,Belgique,Milieu Défensif,21
+83,Eliesse Ben Seghir,France,Milieu Offensif,18
+84,Benoît Badiashile,France,Défenseur,22
+85,Malang Sarr,France,Défenseur,24
+86,Takumi Minamino,Japon,Milieu Offensif,28
+87,Kevin Volland,Allemagne,Milieu Offensif,30
+88,Ismail Jakobs,Sénégal,Latéral,23
+89,Maghnes Akliouche,France,Milieu Offensif,21
+90,Gelson Martins,Portugal,Milieu Offensif,28
+91,Jean Lucas,Brésil,Milieu Défensif,24
+92,Chrislain Matsima,France,Défenseur,20
+93,Myron Boadu,Pays-Bas,Attaquant,22
+94,Edan Diop,France,Latéral,18
+95,Sofiane Diop,France,Milieu Défensif,22
+96,Soungoutou Magassa,Mali,Milieu Défensif,19
+97,Thomas Didillon,France,Gardien,27
+98,Félix Lemaréchal,Côte d'Ivoire,Milieu Défensif,19
+99,Yllan Okou,France,Défenseur,20
+100,Jonathan David,Canada,Attaquant,23
+101,Angel Gomes,,Milieu Défensif,22
+102,Benjamin André,France,Milieu Défensif,32
+103,Lucas Chevalier,France,Gardien,21
+104,Jonathan Bamba,France,Attaquant,27
+105,José Fonte,Portugal,Défenseur,39
+106,Bafodé Diakité,France,Défenseur,22
+107,Rémy Cabella,France,Milieu Offensif,33
+108,Tiago Djaló,Portugal,Défenseur,23
+109,Ismaily,Brésil,Défenseur,33
+110,André Gomes,Portugal,Milieu Défensif,29
+111,Timothy Weah,États-Unis,,23
+112,Alexsandro Ribeiro,Brésil,Défenseur,23
+113,Edon Zhegrova,,,24
+114,Adam Ounas,Algérie,Attaquant,26
+115,Gabriel Gudmundsson,Suède,,24
+116,Leny Yoro,France,Défenseur,17
+117,Leonardo César Jardim,Brésil,Gardien,28
+118,Mohamed Lamine Bayo,Guinée,Milieu Offensif,24
+119,Akim Zedadka,Algérie,Latéral,27
+120,Carlos Baleba,Cameroun,Milieu Défensif,19
+121,Yusuf Yaz?c?,Turquie,Milieu Défensif,26
+122,Alan Virginius,France,Attaquant,20
+123,Jonas Martin,France,Milieu Défensif,33
+124,Simon Ramet,France,Défenseur,20
+125,Benoît Costil,France,Gardien,35
+126,Ichem Ferrah,France,Milieu Défensif,17
+127,Adam Jakubech,Slovaquie,Gardien,26
+128,Isaac Lihadji,France,Attaquant,21
+129,Matteo Makhabé,France,Milieu Défensif,19
+130,Tom Negrel,France,Gardien,20
+131,Arthur Theate,Belgique,Défenseur,22
+132,Benjamin Bourigeaud,France,Milieu Offensif,29
+133,Steve Mandanda,France,Gardien,38
+134,Amine Gouiri,France,Milieu Offensif,23
+135,Hamari Traoré,Mali,Défenseur,31
+136,Adrien Truffert,France,Défenseur,21
+137,Arnaud Kalimuendo,France,Attaquant,21
+138,Flavien Tait,France,Milieu Défensif,30
+139,Baptiste Santamaria,France,Milieu Défensif,28
+140,Martin Terrier,France,Milieu Offensif,26
+141,Chimuanya Ugochukwu,France,Milieu Défensif,19
+142,Lovro Majer,Croatie,Milieu Offensif,25
+143,Joe Rodon,,Défenseur,25
+144,Christopher Wooh,Cameroun,Défenseur,21
+145,Désiré Doué,France,Milieu Offensif,17
+146,Warmed Omari,France,Défenseur,23
+147,Birger Meling,Norvège,Défenseur,28
+148,Jeremy Doku,Belgique,Milieu Offensif,20
+149,Karl Toko Ekambi,Cameroun,Milieu Offensif,30
+150,Djed Spence,,Défenseur,22
+151,Xeka,Portugal,Milieu Défensif,28
+152,Do?an Alemdar,Turquie,Gardien,20
+153,Gaëtan Laborde,France,Attaquant,29
+154,Kamaldeen Sulemana,Ghana,Milieu Offensif,21
+155,Lorenz Assignon,Togo,Défenseur,22
+156,Jeanöel Belocian,France,Défenseur,18
+157,Ibrahim Salah,Maroc,Milieu Offensif,21
+158,Loïc Bade,France,Défenseur,23
+159,Matthis Abline,France,Milieu Offensif,20
+160,Sehrou Guirassy,Guinée,Milieu Défensif,27
+161,Alan Do Marcolino,Gabon,Attaquant,21
+162,Guela Doué,France,Milieu Offensif,20
+163,Romain Salin,France,Gardien,38
+164,Noah Francoise,France,Milieu Défensif,19
+165,Jérémy Jacquet,France,Défenseur,17
+166,Léo Rouille,France,Défenseur,19
+167,Gabriel Tutu,France,Attaquant,19
+168,Nicolás Tagliafico,Argentine,Défenseur,30
+169,Alexandre Lacazette,France,Attaquant,31
+170,Castello Lukeba,France,Défenseur,20
+171,Anthony Lopes,Portugal,Gardien,32
+172,Maxence Caqueret,France,Milieu Défensif,23
+173,Thiago Mendes,Brésil,Milieu Défensif,31
+174,Johann Lepenant,France,Milieu Défensif,20
+175,Corentin Tolisso,France,Milieu Défensif,28
+176,Sinaly Diomande,Côte d'Ivoire,Défenseur,22
+177,Malo Gusto,France,Défenseur,19
+178,Rayan Cherki,France,Milieu Offensif,19
+179,Dejan Lovren,Croatie,Défenseur,33
+180,Karl Toko Ekambi,Cameroun,Milieu Offensif,30
+181,Tetê,Brésil,Milieu Offensif,23
+182,Bradley Barcola,France,Milieu Offensif,20
+183,Sael Kumbedi,France,Défenseur,18
+184,Moussa Dembélé,France,Milieu Offensif,26
+185,Rémy Riou,France,Gardien,35
+186,Houssem Aouar,France,Milieu Défensif,24
+187,Amin Sarr,Suède,Attaquant,22
+188,Jérôme Boateng,Allemagne,Défenseur,34
+189,Henrique,Brésil,,29
+190,Damien Da Silva,France,Défenseur,34
+191,Romain Faivre,France,Milieu Défensif,24
+192,Lucas Paquetá,Brésil,Milieu Défensif,25
+193,Jeff Reine-Adélaïde,France,Milieu Défensif,25
+194,Jefferson,Brésil,Attaquant,23
+195,Mohamed El Arouch,France,Milieu Défensif,19
+196,Kayne Bonnevie,France,Gardien,21
+197,Djibrail Dib,France,Milieu Défensif,20
+198,Tino Kadewere,Zimbabwe,Attaquant,27
+199,Achraf Laaziri,Maroc,Défenseur,19
+200,Sekou Lega,France,Attaquant,20
+201,Mamadou Sarr,France,Défenseur,17
+202,Dante,Brésil,Défenseur,39
+203,Kasper Schmeichel,Danemark,Gardien,36
+204,Jean-Clair Todibo,France,Défenseur,23
+205,Khéphren Thuram-Ulie,France,Milieu Défensif,22
+206,Melvin Bard,France,Défenseur,22
+207,Gaëtan Laborde,France,Attaquant,29
+208,Jordan Lotomba,Suisse,Défenseur,24
+209,Aaron Ramsey,,Milieu Défensif,32
+210,Hicham Boudaoui,Algérie,Milieu Défensif,23
+211,Nicolas Pépé,Côte d'Ivoire,Milieu Offensif,27
+212,Pablo Rosario,Pays-Bas,Milieu Défensif,26
+213,Sofiane Diop,France,Milieu Offensif,22
+214,Terem Moffi,,Attaquant,23
+215,Mario Lemina,Gabon,Milieu Défensif,29
+216,Andy Delort,Algérie,Attaquant,31
+217,Ross Barkley,,Milieu Offensif,29
+218,Youcef Atal,Algérie,Latéral,26
+219,Badredine Bouanani,Algérie,Milieu Offensif,18
+220,Mattia Viti,Italie,Défenseur,21
+221,Youssouf Ndayishimiye,Burundi,Milieu Défensif,24
+222,Antoine Mendy,France,Défenseur,18
+223,Alexis Beka Beka,France,Milieu Défensif,22
+224,Bilal Brahimi,Algérie,Milieu Offensif,23
+225,Ayoub Amraoui,Maroc,,18
+226,Amine Gouiri,France,Milieu Offensif,23
+227,Calvin Stengs,Pays-Bas,Attaquant,24
+228,Marcin Bu?ka,Pologne,Gardien,23
+229,Joe Bryan,,Milieu Défensif,29
+230,Rare? Ilie,Roumanie,Milieu Offensif,20
+231,Reda Belahyane,France,Milieu Défensif,18
+232,Flavius Daniliuc,Autriche,Défenseur,22
+233,Alexis Claude-Maurice,France,Attaquant,24
+234,Mads Bech Sørensen,Danemark,Défenseur,24
+235,Teddy Boulhendi,France,Gardien,22
+236,Soudeysse Kari,France,Milieu Défensif,21
+237,Tom Louchet,France,Milieu Défensif,20
+238,Yannis Nahounou,France,Défenseur,18
+239,Théo Trinker,France,Milieu Défensif,21
+240,Montassar Talbi,Tunisie  Tunisie,Défenseur,24
+241,Vincent Le Goff,France,Défenseur,33
+242,Enzo Le Fée,France,Milieu Défensif,23
+243,Gedeon Kalulu,République démocratique du Congo,Défenseur,25
+244,Laurent Abergel,France,Milieu Défensif,30
+245,Julien Ponceau,France,Milieu Défensif,22
+246,Dango Ouattara,,Milieu Offensif,21
+247,Julien Laporte,France,Défenseur,29
+248,Vito Mannone,Italie,Gardien,35
+249,Yvon Mvogo,Suisse,Gardien,28
+250,Terem Moffi,,Attaquant,23
+251,Théo Le Bris,France,Milieu Défensif,20
+252,Stéphane Diarra,France,Milieu Offensif,24
+253,Bamo Meïté,Côte d'Ivoire,Défenseur,21
+254,Bonke Innocent,,Milieu Défensif,27
+255,Ibrahima Koné,Mali,Attaquant,23
+256,Yoann Cathline,France,Milieu Offensif,20
+257,Romain Faivre,France,Milieu Offensif,24
+258,Jean-Victor Makengo,France,Milieu Défensif,24
+259,Bamba Dieng,Sénégal,Attaquant,23
+260,Darlin Yongwa,Cameroun,,22
+261,Igor Carioca,Brésil,Défenseur,26
+262,Armand Lauriente,France,Attaquant,24
+263,Chrislain Matsima,France,Latéral,20
+264,Adil Aouchiche,France,Milieu Défensif,20
+265,Quentin Boisgard,France,Milieu Défensif,26
+266,Ckene Doucouré,Comores,Milieu Offensif,21
+267,Ayman Kari,France,Milieu Défensif,18
+268,Adrian Grbi?,Autriche,Milieu Offensif,26
+269,Teddy Bartouche,France,Gardien,25
+270,Paul Bellon,France,Milieu Défensif,23
+271,Eli Junior Kroupi,France,Milieu Défensif,16
+272,Samuel Loric,France,Attaquant,22
+273,Loris Mouyokolo,République du Congo,Défenseur,21
+274,Paul Nardi,France,Gardien,28
+275,Pablo Pagis,France,Milieu Défensif,20
+276,Aurélien Pelon,France,Milieu Défensif,19
+277,Léo Pétrot,France,Défenseur,26
+278,Julian Pollersbeck,Allemagne,Gardien,28
+279,Maxime Wackers,France,Défenseur,25
+280,Yunis Abdelhamid,Maroc,Défenseur,35
+281,Folarin Balogun,,Attaquant,21
+282,Junya Ito,Japon,Attaquant,30
+283,Yehvann Diouf,France,Gardien,23
+284,Marshall Munetsi,Zimbabwe,Milieu Défensif,26
+285,Azor Matusiwa,Pays-Bas,Milieu Défensif,25
+286,Emmanuel Agbadou,Côte d'Ivoire,Défenseur,25
+287,Alexis Flips,France,,23
+288,Thomas Foket,Belgique,Défenseur,28
+289,Thibault De Smet,Belgique,Défenseur,24
+290,Dion Lopy,Sénégal,Milieu Défensif,21
+291,Kamory Doumbia,Mali,Milieu Défensif,20
+292,Banzouzi Locko,France,Défenseur,21
+293,Jens Cajuste,Suède,Milieu Défensif,23
+294,Andrew Gravillon,,Défenseur,25
+295,Arber Zeneli,,Milieu Offensif,28
+296,Maxime Busi,Belgique,Défenseur,23
+297,Patrick Pentz,Autriche,Gardien,26
+298,Check Keita,France,Défenseur,20
+299,Mitchell van Bergen,Pays-Bas,,23
+300,Wout Faes,Belgique,Défenseur,25
+301,Myziane Maolida,France,Milieu Offensif,24
+302,Noah Holm,Norvège,Milieu Offensif,21
+303,Ibrahim Diakité,Guinée,Défenseur,19
+304,Valentin Atangana Edoa,France,Milieu Défensif,17
+305,El Bilal Touré,Mali,Attaquant,21
+306,Kaj Sierhuis,Pays-Bas,Milieu Offensif,25
+307,Martin Adeline,France,Milieu Offensif,19
+308,Nathanael Mbuku,France,Milieu Offensif,21
+309,Mohamed Toure,Australie,,19
+310,Rafik Guitane,France,Attaquant,23
+311,Fallou Fall,Sénégal,Défenseur,19
+312,Samuel Koeberlé,France,Milieu Défensif,18
+313,Therence Koudou,France,Milieu Défensif,18
+314,Moustapha Mbow,Sénégal,Défenseur,23
+315,Alexandre Olliero,France,Gardien,27
+316,Nicolas Penneteau,France,Gardien,42
+317,Soumalia Sylla,France,Gardien,19
+318,Mory Diaw,Sénégal,Gardien,29
+319,Mateusz Wieteska,Pologne,Défenseur,26
+320,Neto Borges,Brésil,Défenseur,26
+321,Johan Gastien,France,Milieu Défensif,35
+322,Jim Allevinah,Gabon,,28
+323,Alidu Seidu,Ghana,Défenseur,22
+324,Yohann Magnin,France,Milieu Défensif,25
+325,Elba Rashani,,Milieu Offensif,30
+326,Grejohn Kyei,France,Attaquant,27
+327,Maximiliano Caufriez,Belgique,Défenseur,26
+328,Saîf-Eddine Khaoui,Tunisie  Tunisie,Milieu Défensif,28
+329,Muhammed Saracevic Cham,Autriche,Milieu Défensif,22
+330,Florent Ogier,France,Défenseur,34
+331,Maxime Gonalons,France,Milieu Défensif,34
+332,Komnen Andri?,Serbie,Attaquant,27
+333,Jérémie Bela,Angola,Latéral,30
+334,Cheick Konaté,Côte d'Ivoire,Défenseur,19
+335,Aïman Maurer,Maroc,Milieu Offensif,18
+336,Mehdi Zeffane,Algérie,Latéral,30
+337,Jodel Dossou,Bénin,Milieu Défensif,31
+338,Arial Mendy,Sénégal,Défenseur,28
+339,Baila Diallo,France,Latéral,21
+340,Yanis Massolin,France,Milieu Défensif,20
+341,Brandon Baiye,Belgique,Milieu Défensif,22
+342,Souleymane Cissé,France,Défenseur,20
+343,Jason Berthomier,France,Milieu Défensif,33
+344,Jean-Claude Billong,Cameroun,Milieu Défensif,29
+345,Stan Berkani,Algérie,Milieu Défensif,19
+346,Sofyan Chader,France,Milieu Défensif,23
+347,Ouparine Djoco,Sénégal,Gardien,25
+348,Wabo Kamdem,France,Milieu Défensif,20
+349,Lucas Margueron,France,Gardien,22
+350,Giovani Versini,France,Attaquant,19
+351,Jordan Ferri,France,Milieu Défensif,31
+352,Christopher Jullien,France,Défenseur,30
+353,Sepe Elye Wahi,France,Attaquant,20
+354,Téji Savanier,France,Milieu Défensif,31
+355,Falaye Sacko,Mali,Défenseur,28
+356,Arnaud Nordin,France,Attaquant,24
+357,Joris Chotard,France,Milieu Défensif,21
+358,Faitout Maouassa,France,,24
+359,Wahbi Khazri,Tunisie  Tunisie,Milieu Offensif,32
+360,Maxime Estève,France,Défenseur,20
+361,Benjamin Lecomte,France,Gardien,32
+362,Nicolas Cozza,France,Défenseur,24
+363,Jonas Omlin,Suisse,Gardien,29
+364,Issiaga Sylla,Guinée,Défenseur,29
+365,Léo Leroy,France,Milieu Défensif,23
+366,Stephy Mavididi,,Attaquant,24
+367,Boubakar Kouyaté,Mali,Défenseur,26
+368,Enzo Tchato,Cameroun,Défenseur,20
+369,Mamadou Sakho,France,Défenseur,33
+370,Khalil Fayad,France,Milieu Défensif,18
+371,Valère Germain,France,Milieu Offensif,33
+372,Théo Sainte-Luce,France,Défenseur,24
+373,Bingourou Kamara,Sénégal,Gardien,26
+374,Arnaud Souquet,France,,31
+375,Béni Makouana,République du Congo,Milieu Offensif,20
+376,Matis Carvalho,Portugal,Gardien,24
+377,Cheikh Faye,Sénégal,Attaquant,24
+378,Axel Gueguin,France,Milieu Offensif,18
+379,Sacha Delaye,France,Milieu Offensif,21
+380,Pedro Mendes,Portugal,Défenseur,32
+381,Téo Allix,France,Défenseur,18
+382,Dimitry Bertaud,France,Gardien,24
+383,Edvin Bongemba,France,Milieu Défensif,19
+384,Redouane Halhal,Maroc,Défenseur,20
+385,Matéo Loubatieres,France,Milieu Défensif,19
+386,Thibault Tamas,France,Défenseur,22
+387,Ryan Tchato Mbiayi,Cameroun,Défenseur,18
+388,Maxime Dupé,France,Gardien,30
+389,Anthony Rouault,France,Défenseur,21
+390,Stijn Spierings,Pays-Bas,Milieu Défensif,27
+391,Branco van den Boomen,Pays-Bas,Milieu Défensif,27
+392,Rasmus Nicolaisen,Danemark,Défenseur,26
+393,Zakaria Aboukhlal,Maroc,Milieu Offensif,23
+394,Thijs Dallinga,Pays-Bas,Attaquant,22
+395,Brecht Dejaegere,Belgique,Milieu Défensif,31
+396,Mikkel Desler,Danemark,Défenseur,28
+397,Fares Chaïbi,Algérie,Milieu Offensif,20
+398,Rafael Ratão,Brésil,Milieu Offensif,27
+399,Issiaga Sylla,Guinée,Défenseur,29
+400,Moussa Diarra,Mali,Défenseur,22
+401,Gabriel Suazo,Chili,Défenseur,25
+402,Ado Onaiwu,Japon,Attaquant,27
+403,Waren Kamanzi,Norvège,Défenseur,22
+404,Denis Genreau,Australie,Milieu Défensif,23
+405,Vincent Sierro,Suisse,Milieu Défensif,27
+406,Kévin Keben Biakolo,Cameroun,Défenseur,19
+407,Logan Costa,Cap-Vert,Défenseur,22
+408,Veljko Birman?evi?,Serbie,Milieu Offensif,25
+409,Oliver Zandén,Suède,Latéral,21
+410,Christian Mawissa,France,Défenseur,18
+411,Nathan N'Goumou,France,Attaquant,23
+412,Yanis Begraoui,France,Milieu Offensif,21
+413,Saïd Hamulic,Pays-Bas,Attaquant,22
+414,Rhys Healey,,Attaquant,28
+415,Naatan Skyttä,Finlande,Milieu Défensif,21
+416,Theocharis Tsingaras,Grèce,Milieu Défensif,22
+417,Ylies Aradj,France,Défenseur,17
+418,Junior Flemmings,Jamaïque,Milieu Offensif,27
+419,Kjetil Haug,Norvège,Gardien,24
+420,Steve Mvoué,Cameroun,Milieu Défensif,21
+421,Edhy Zuliani,Italie,Milieu Défensif,18
+422,Matz Sels,Belgique,Gardien,31
+423,Alexander Djiku,Ghana,Défenseur,28
+424,Habib Diallo,Sénégal,Attaquant,27
+425,Jean-Ricner Bellegarde,France,Milieu Défensif,24
+426,Kévin Gameiro,France,Attaquant,36
+427,Ismaël Doukouré,France,Latéral,19
+428,Maxime Le Marchand,France,Défenseur,33
+429,Dimitri Liénard,France,Latéral,35
+430,Sanjin Prci?,Bosnie-Herzégovine,Milieu Défensif,29
+431,Gerzino Nyamsi,France,Défenseur,26
+432,Jean-Eudes Aholou,Côte d'Ivoire,Milieu Défensif,29
+433,Lucas Perrin,France,Défenseur,24
+434,Mouhamadou Diarra,Sénégal,Milieu Offensif,19
+435,Morgan Sanson,France,Milieu Défensif,28
+436,Frederic Guilbert,France,Défenseur,28
+437,Thomas Delaine,France,Latéral,31
+438,Adrien Thomasson,France,Milieu Défensif,29
+439,Ibrahima Sissoko,France,Milieu Défensif,25
+440,Eduard Sobol,Ukraine,Défenseur,28
+441,Colin Dagba,France,Latéral,24
+442,Ludovic Ajorque,France,Attaquant,29
+443,Ronaël Pierre-Gabriel,France,Défenseur,24
+444,Lebo Mothiba,Afrique du Sud,Milieu Offensif,27
+445,Nordine Kandil,France,Milieu Offensif,21
+446,Franci Bouebari,France,Défenseur,19
+447,Karol Fila,Pologne,Défenseur,24
+448,Yuito Suzuki,Japon,Milieu Offensif,21
+449,Dany Jean,Haïti,Latéral,20
+450,Marvin Senaya,Togo,Défenseur,22
+451,Eiji Kawashima,Japon,Gardien,40
+452,Anas Nanah,Maroc,Défenseur,20
+453,Antoine Nuss,France,Défenseur,19
+454,Robin Risser,France,Gardien,18
+455,Jordan Robinand,France,Milieu Défensif,19
+456,Tom Saettel,France,Attaquant,17
+457,Marco Bizot,Pays-Bas,Gardien,32
+458,Lilian Brassier,France,Défenseur,23
+459,Pierre Lees-Melou,France,Milieu Défensif,29
+460,Franck Honorat,France,Milieu Offensif,26
+461,Haris Belkebla,Algérie,Milieu Défensif,29
+462,Jean-Kevin Duverne,France,Défenseur,25
+463,Brendan Chardonnet,France,Défenseur,28
+464,Jérémy Le Douaron,France,Milieu Offensif,25
+465,Mahdi Camara,France,Milieu Défensif,24
+466,Hugo Magnetti,France,Milieu Défensif,24
+467,Noah Fadiga,Sénégal,Défenseur,23
+468,Steve Mounié,Bénin,Attaquant,28
+469,Achraf Dari,Maroc,Défenseur,24
+470,Mathias Pereira Lage,Portugal,Milieu Offensif,26
+471,Romain Del Castillo,France,Milieu Offensif,27
+472,Christophe Hérelle,,Défenseur,30
+473,Kenny Lala,France,Défenseur,31
+474,Islam Slimani,Algérie,Attaquant,34
+475,Youcef Belaïli,Algérie,Milieu Offensif,31
+476,Jere Uronen,Finlande,Défenseur,28
+477,Félix Lemaréchal,Côte d'Ivoire,Milieu Défensif,19
+478,Banzouzi Locko,France,Défenseur,21
+479,Alberth Elis,Honduras,Milieu Offensif,27
+480,Irvin Cardona,France,Milieu Offensif,25
+481,Taïryk Arconte,France,Attaquant,19
+482,Joaquín Blázquez,Argentine,Gardien,22
+483,Karamoko Dembele,,Milieu Offensif,20
+484,Axel Camblan,France,Milieu Offensif,19
+485,Hianga Mananga Mbock,France,Milieu Défensif,23
+486,Grégoire Coudert,France,Gardien,24
+487,Birama Touré,Mali,Milieu Défensif,30
+488,Jubal,Brésil,Défenseur,29
+489,Rayan Raveloson,Madagascar,Latéral,26
+490,Gideon Mensah,Ghana,Défenseur,24
+491,Nuno da Costa,Cap-Vert,Milieu Offensif,32
+492,Benoît Costil,France,Gardien,35
+493,Julian Jeanvier,Guinée,Défenseur,31
+494,Gauthier Hein,France,Milieu Offensif,26
+495,Hamza Sakhi,Maroc,Milieu Défensif,26
+496,M'Baye Niang,Sénégal,Attaquant,28
+497,Akim Zedadka,Algérie,Défenseur,27
+498,Mathias Autret,France,Milieu Offensif,32
+499,Lassine Sinayoko,Mali,Milieu Offensif,23
+500,Gaëtan Perrin,France,Milieu Offensif,26
+501,Souleymane Touré,France,Défenseur,20
+502,Ionu? Radu,Roumanie,Gardien,25
+503,Youssouf M'Changama,Comores,Milieu Défensif,32
+504,Paul Joly,France,Défenseur,22
+505,Han-Noah Massengo,France,Milieu Défensif,21
+506,Matthis Abline,France,Attaquant,20
+507,Quentin Bernard,France,Défenseur,33
+508,Alexandre Coeff,France,Défenseur,31
+509,Siriki Dembélé,Côte d'Ivoire,Milieu Défensif,26
+510,Gaëtan Charbonnier,France,Milieu Offensif,34
+511,Kenji-Van Boto,Madagascar,Défenseur,27
+512,Donovan Léon,,Gardien,30
+513,Brayann Pereira,France,Défenseur,19
+514,Dénys Bain,France,Défenseur,29
+515,Théo Pellenard,France,Défenseur,29
+516,Kays Ruiz,Maroc,Milieu Défensif,20
+517,Rémy Dugimont,France,Milieu Offensif,36
+518,Ousmane Camara,Guinée,Milieu Offensif,21
+519,Kévin Danois,France,Milieu Défensif,18
+520,Ousoumane Camara,France,Milieu Défensif,24
+521,Vincenzo Cozzella,Italie,Gardien,21
+522,Théo De Percin,,Gardien,22
+523,Raphaël Lipinski,France,Milieu Défensif,20
+524,Alban Lafont,France,Gardien,24
+525,Andrei Girotto,Brésil,Latéral,31
+526,Ludovic Blas,France,Milieu Offensif,25
+527,Jean-Charles Castelletto,Cameroun,Défenseur,28
+528,Moses Simon,,Milieu Offensif,27
+529,Nicolas Pallois,France,Défenseur,35
+530,Samuel Moutoussamy,République démocratique du Congo,Milieu Défensif,26
+531,Pedro Chirivella,Espagne,Milieu Défensif,25
+532,Moussa Sissoko,France,Milieu Défensif,33
+533,Mostafa Mohamed,Égypte,Attaquant,25
+534,Quentin Merlin,France,Défenseur,20
+535,Fabien Centonze,France,Défenseur,27
+536,Evann Guessand,France,Milieu Offensif,21
+537,Ignatius Ganago,Cameroun,Milieu Offensif,24
+538,Florent Mollet,France,Milieu Défensif,31
+539,Dennis Appiah,France,Latéral,30
+540,Jaouen Hadjam,Algérie,Défenseur,20
+541,João Victor,Brésil,Défenseur,24
+542,Sébastien Corchia,France,Défenseur,32
+543,Andy Delort,Algérie,Attaquant,31
+544,Charles Traore,Mali,Défenseur,31
+545,Marcus Coco,France,,26
+546,Fábio,Brésil,Latéral,32
+547,Rémy Descamps,France,Gardien,26
+548,Abdoul Kader Bamba,France,Milieu Offensif,28
+549,Nathan Zeze,France,Défenseur,17
+550,Lohann Doucet,France,Milieu Offensif,20
+551,Mohamed Achi,France,Attaquant,21
+552,Stredair Appuah,France,Milieu Défensif,18
+553,Loïc Affamah,France,Attaquant,20
+554,Junior Diaz,France,Défenseur,19
+555,Gor Manvelyan,France,Milieu Défensif,21
+556,Denis Petri?,Serbie,Gardien,34
+557,Robin Voisine,France,Défenseur,21
+558,Benjamin Leroy,France,Gardien,34
+559,Mounaim El Idrissy,France,Attaquant,24
+560,Oumar Gonzalez,Cameroun,Défenseur,25
+561,Vincent Marchetti,France,Milieu Défensif,25
+562,Mohamed Youssouf,Comores,Défenseur,35
+563,Ismael Diallo,Côte d'Ivoire,Défenseur,26
+564,Cyrille Bayala,,Milieu Défensif,26
+565,Mathieu Coutadeur,France,Milieu Défensif,37
+566,Cédric Avinel,,Défenseur,36
+567,Clément Vidal,France,Latéral,22
+568,Youcef Belaïli,Algérie,Milieu Offensif,31
+569,Riad Nouri,France,Milieu Offensif,37
+570,Romain Hamouma,France,Milieu Offensif,36
+571,Mickaël Alphonse,,Défenseur,33
+572,Thomas Mangani,France,Milieu Défensif,36
+573,Youssouf Koné,Mali,Défenseur,27
+574,Mickaël Barreto,France,Milieu Défensif,32
+575,Kevin Spadanuda,Suisse,Milieu Offensif,26
+576,Fernand Mayembo,République du Congo,Défenseur,27
+577,Bevic Moussiti-Oko,République du Congo,Attaquant,28
+578,Yoann Touzghar,Tunisie  Tunisie,Attaquant,36
+579,Moussa Soumano,France,Attaquant,17
+580,François-Joseph Sollacaro,France,Gardien,29
+581,Florian Chabrolle,France,Milieu Défensif,25
+582,Yanis Cimignani,France,Milieu Défensif,21
+583,Kouamé Botué,,Milieu Offensif,20
+584,Qazim Laçi,Albanie,Milieu Défensif,27
+585,Moussa Djitte,Sénégal,Attaquant,23
+586,Ghjuvanni Quilichini,France,Gardien,20
+587,Ivane Chegra,France,Milieu Offensif,19
+588,Paolo Lebas,Portugal,Milieu Défensif,20
+589,Ruan Levine,Brésil,Milieu Offensif,24
+590,Mehdi Puch Herrantz,France,Milieu Défensif,19
+591,Ben Hamed Touré,Côte d'Ivoire,Attaquant,19
+592,Anthony Khelifa,France,Défenseur,17
+593,Gaëtan Courtet,France,Attaquant,34
+594,Victor Lebas,Portugal,Défenseur,18
+595,Tony Strata,France,Attaquant,18
+596,Erik Palmer-Brown,États-Unis,Défenseur,26
+597,Yoann Salmier,,Défenseur,30
+598,Mama Samba Baldé,,Attaquant,27
+599,Gauthier Gallon,France,Gardien,30
+600,Rominigue Kouamé,Mali,Milieu Défensif,26
+601,Rony Lopes,Portugal,Milieu Offensif,27
+602,Thierno Balde,France,Défenseur,20
+603,Xavier Chavalerin,France,Milieu Défensif,32
+604,Wilson Odobert,France,Milieu Offensif,18
+605,Yasser Larouci,Algérie,Défenseur,22
+606,Andreas Bruus,Danemark,,24
+607,Jackson Porozo,Équateur,Défenseur,22
+608,Adil Rami,France,Défenseur,37
+609,Renaud Ripart,France,Milieu Offensif,30
+610,Lucien Agoume,France,Milieu Défensif,21
+611,Abdu Conté,Portugal,Défenseur,25
+612,Florian Tardieu,France,Milieu Défensif,31
+613,Mateusz Lis,Pologne,Gardien,26
+614,Ike Ugbo,Canada,Milieu Offensif,24
+615,Papa Ndiaga Yade,Sénégal,Défenseur,23
+616,Banhie Zoukrou,France,Défenseur,20
+617,Jeff Reine-Adélaïde,France,Milieu Défensif,25
+618,Tristan Dingomé,Cameroun,Milieu Défensif,32
+619,Alexis Tibidi,France,Milieu Offensif,19
+620,Mathis Hamdi,France,Défenseur,19
+621,Kyliane Dong,France,Latéral,18
+622,Ante Palaversa,Croatie,Milieu Défensif,23
+623,Amar Ahmed,Suède,Attaquant,19
+624,Jordan Dongmo,Cameroun,Milieu Défensif,22
+625,Marlos Moreno,Colombie,Milieu Défensif,26
+626,Ryan Fage,France,Milieu Défensif,19
+627,Rudy Kohon,France,Défenseur,18
+628,Derek Mazou-Sacko,France,Milieu Défensif,18
+629,Corentin Michel,Belgique,Gardien,23
+630,Jessy Moulin,France,Gardien,37
+631,Eric N'Jo,France,Défenseur,18
+632,Yoann Touzghar,Tunisie  Tunisie,Attaquant,36
+633,Cédric Hountondji,Bénin,Défenseur,29
+634,Batista Mendy,France,Milieu Défensif,23
+635,Nabil Bentaleb,Algérie,Milieu Défensif,28
+636,Paul Bernardoni,France,Gardien,26
+637,Yan Valery,Tunisie  Tunisie,Défenseur,24
+638,Adrien Hunou,France,Milieu Offensif,29
+639,Souleyman Doumbia,Côte d'Ivoire,,26
+640,Himad Abdelli,France,Milieu Offensif,23
+641,Miha Blai?,,Défenseur,30
+642,Abdallah Sima,Sénégal,Attaquant,21
+643,Pierrick Capelle,France,Milieu Défensif,36
+644,Azzedine Ounahi,Maroc,Milieu Offensif,23
+645,Amine Salama,France,Milieu Offensif,22
+646,Ibrahima Niane,Sénégal,Attaquant,24
+647,Sofiane Boufal,Maroc,Milieu Offensif,29
+648,Farid El Melali,Algérie,,26
+649,Abdoulaye Bamba,Côte d'Ivoire,Défenseur,33
+650,Yahia Fofana,France,Gardien,22
+651,Sada Thioub,Sénégal,,27
+652,Ousmane Camara,France,Défenseur,20
+653,Faouzi Ghoulam,Algérie,Défenseur,32
+654,Justin-Noël Kalumba,France,Défenseur,18
+655,Lois Diony,France,Attaquant,30
+656,Halid abanovi?,Bosnie-Herzégovine,,23
+657,Ibrahim Amadou,France,Latéral,30
+658,Jean Mattéo Bahoya,France,Milieu Offensif,18
+659,Ilyes Cheti,Algérie,Défenseur,28
+660,Waniss Taibi,France,Milieu Défensif,21
+661,Lilian Raolisoa,France,Latéral,22
+662,Zinédine Ould Khaled,France,Milieu Offensif,23
+663,Marin Jakoli,Croatie,Attaquant,26
+664,Jason Mbock,France,Milieu Offensif,23
+665,Antonin Bobichon,France,Milieu Défensif,27
+666,Salim Akkal,France,Milieu Défensif,23
+667,Yassin Belkhdim,France,Milieu Défensif,21
+668,Théo Borne,France,Gardien,20
+669,Yacine Gaya,Algérie,Défenseur,18
+670,Noah Guede-Nadje,France,Milieu Défensif,19
+671,Demba N'Diaye,France,Milieu Défensif,17
+672,Gianluigi Donnarumma,Italie,Gardien,24
+673,Marquinhos,Brésil,Défenseur,28
+674,Lionel Messi,Argentine,Milieu Offensif,35
+675,Kylian Mbappé,France,Attaquant,24
+676,Sergio Ramos,Espagne,Défenseur,37
+677,Vitinha,Portugal,Milieu Défensif,23
+678,Danilo Pereira,Portugal,Latéral,31
+679,Marco Verratti,Italie,Milieu Défensif,30
+680,Achraf Hakimi,Maroc,Latéral,24
+681,Fabián Ruiz Peña,Espagne,Milieu Défensif,27
+682,Nuno Mendes,Portugal,Défenseur,20
+683,Neymar,Brésil,Milieu Offensif,31
+684,Juan Bernat,Espagne,Défenseur,30
+685,Carlos Soler,Espagne,Milieu Défensif,26
+686,Nordi Mukiele,France,Défenseur,25
+687,Hugo Ekitike,France,Attaquant,20
+688,Presnel Kimpembe,France,Défenseur,27
+689,Warren Zaire-Emery,France,Milieu Défensif,17
+690,Renato Sanches,Portugal,Milieu Défensif,25
+691,El Chadaille Bitshiabu,France,Défenseur,17
+692,Timothee Pembele,France,Défenseur,20
+693,Pablo Sarabia,Espagne,Milieu Offensif,31
+694,Ismaël Gharbi,Espagne,Milieu Offensif,19
+695,Leandro Paredes,Argentine,Milieu Défensif,28
+696,Ilyes Housni,France,Attaquant,17
+697,Abdou Diallo,Sénégal,Défenseur,27
+698,Nehemiah Fernandez,France,Défenseur,18
+699,Arnaud Kalimuendo,France,Attaquant,21
+700,Ayman Kari,France,Milieu Défensif,18
+701,Hugo Lamy,France,Défenseur,19
+702,Alexandre Letellier,France,Gardien,32
+703,Keylor Navas,Costa Rica,Gardien,36
+704,Serif Nhaga,Portugal,Défenseur,17
+705,Sergio Rico,Espagne,Gardien,29
