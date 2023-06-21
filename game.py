@@ -2,7 +2,11 @@
 
 import pandas as pd
 
+
+
+
 df = pd.read_csv('Ligue1_Clean.csv')
+# df_clubs = pd.read_csv("club")
 df.head()
 
 #  Application
@@ -12,12 +16,18 @@ score = 0
 
 while rejouer:
     joueur = df.sample().iloc[0]
+    # filtre du df_clubs avec le nom du joueur
+
+    # df_clubs filtré avc seulement les clubs du joeuur
+
+    # au début selctione le premier club
 
     # Affiche les informations sélectionnées
     print("Nationalité:", joueur['Nation'])
     print("Âge:", joueur['Age'])
     print("Poste:", joueur['Pos'])
     print("Qui est ce joueur ?\n")
+    # affichage du 1er clib
 
     nom = input()
 
@@ -29,8 +39,11 @@ while rejouer:
             print("Désolé, c'est perdu. La réponse est", joueur['Player'])
             score -= 1  # Décrémente le score en cas d'échec après 3 essais
             break
-
+        
+        
         nom = input("Essaie encore : ")
+
+        # afficher un nouveau club
         compteur_essais += 1
 
     if nom.lower() == joueur['Player'].lower():
