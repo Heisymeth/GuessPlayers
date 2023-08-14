@@ -2,12 +2,9 @@
 
 import pandas as pd
 
-
-
-
-df = pd.read_csv('Ligue1_Clean.csv')
+df = pd.read_csv("\\Users\\grego\\OneDrive\\Documents\\Python\\GuessPlayer\\data\\Ligue1_Clean.csv")
+df2 = pd.read_csv("\\Users\\grego\\OneDrive\\Documents\\Python\\GuessPlayer\\data\\Liste.csv")
 # df_clubs = pd.read_csv("club")
-df.head()
 
 #  Application
 # Sélectionnez un joueur au hasard
@@ -16,6 +13,7 @@ score = 0
 
 while rejouer:
     joueur = df.sample().iloc[0]
+    club = joueur == df2
     # filtre du df_clubs avec le nom du joueur
 
     # df_clubs filtré avc seulement les clubs du joeuur
@@ -26,8 +24,9 @@ while rejouer:
     print("Nationalité:", joueur['Nation'])
     print("Âge:", joueur['Age'])
     print("Poste:", joueur['Pos'])
+    print("Premier Club:", df)
     print("Qui est ce joueur ?\n")
-    # affichage du 1er clib
+    # affichage du 1er club
 
     nom = input()
 
